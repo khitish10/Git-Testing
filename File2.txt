@@ -1,2 +1,2 @@
-File 2 information
-Adding additional info
+File 2 content
+Adding more additional info
